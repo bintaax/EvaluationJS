@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Just+Another+Hand&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F0E4D3;
+}
+
+#taskContainer {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color:#faf7f3;
+    border-radius: 5px;
+    box-shadow: 2px 1px 1px 2px solid black;
+    text-align: center;
+}
+
+#taskContainer h1 {
+    font-family:'Cookie', sans-serif;
+    font-size: 40px;
+    color: #fee3e3;
+}
+
+#addTaskButton {
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+#taskInput {
+    border:0.5px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+
